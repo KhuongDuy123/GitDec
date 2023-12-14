@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BT1.models
 {
-    internal class user
+    internal class User
     {
     }
 }
