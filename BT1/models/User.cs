@@ -8,5 +8,6 @@ namespace BT1.models
 {
     internal class User
     {
+        public int MSSV { get; set; }
     }
 }
